@@ -12,11 +12,11 @@ compatibility: >
   Targets GitHub repositories only. Cross-platform: macOS, Windows, Linux.
 metadata:
   author: contributors
-  version: "0.2.0"
+  version: "0.2.1"
   tags: [github, pr, contribute, fork, open-source]
 ---
 
-# gh-contribute — Clean PRs to Upstream Repos
+# 开源贡献助手 · Open Source Contributor
 
 Turn local changes into a clean, professional pull request against an upstream repo
 you don't own. Handles the full fork → branch → commit → push → PR pipeline, and
