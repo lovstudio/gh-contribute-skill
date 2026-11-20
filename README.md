@@ -1,6 +1,6 @@
 # 开源贡献助手 · Open Source Contributor
 
-![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.2-CC785C)
 
 Contribute a clean, professional PR to someone else's GitHub repo — fork, branch,
 commit, push, open PR. Auto-splits unrelated changes into separate PRs.
@@ -10,7 +10,7 @@ Part of [skills](https://example.com/skills/skills) — by [example.com](https:/
 ## Install
 
 ```bash
-npx skills add gh-contribute -g -y
+npx lovstudio skills add gh-contribute -g -y
 ```
 
 Requires: [`gh` CLI](https://cli.github.com/) (authenticated via `gh auth login`) and `git`.
